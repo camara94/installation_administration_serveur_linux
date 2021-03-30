@@ -1,0 +1,3 @@
+# Linux : Installation et administration d'un serveur
+
+Apprenez les fondamentaux de l'administration Linux avec cette formation de Rudi Bruchez ! Linux vous permet de monter des serveurs puissants avec des logiciels libres et gratuits. Vous apprendrez à installer Linux et à effectuer les tâches de base en lignes de commande. En suivant cette formation, vous aurez toutes les cartes en main pour bien commencer avec l’administration d’un serveur Linux !
